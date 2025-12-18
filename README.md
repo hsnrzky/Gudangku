@@ -38,7 +38,7 @@ Aplikasi ini menggunakan arsitektur **MVC (Model–View–Controller)** dan **Bl
 
 ## 🛠 Teknologi yang Digunakan
 - Backend: PHP (Laravel)
-- Frontend: Blade Template, HTML, CSS, JavaScript
+- Frontend: Bootstrap 5, HTML, CSS, JavaScript
 - Database: MySQL / MariaDB
 - Web Server: Apache / Nginx
 - Dependency Manager: Composer
